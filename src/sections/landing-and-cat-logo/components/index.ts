@@ -1,0 +1,6 @@
+export { Header } from './Header'
+export { Hero } from './Hero'
+export { CourseCard } from './CourseCard'
+export { CourseCatalog } from './CourseCatalog'
+export { Footer } from './Footer'
+export { LandingCatalogo } from './LandingCatalogo'
